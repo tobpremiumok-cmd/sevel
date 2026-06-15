@@ -1,0 +1,12 @@
+{
+  "serverCountryCode": "RO",
+  "adminResetPassword": "",
+  "configVersion": 1,
+  "defaultCurrency": "ARS",
+  "exchangeRates": {
+    "ARS": 1500.0,
+    "USD": 1.1573
+  },
+  "lastRatesUpdateEpoch": 1781062041,
+  "lastRatesUpdateReadable": "2026-06-10 03:27:21"
+}

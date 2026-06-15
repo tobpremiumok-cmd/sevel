@@ -1,0 +1,27 @@
+{
+  "argentinasdelightreborn:advancement_tree_arg_del_reb": {
+    "criteria": {
+      "advancement_tree_arg_del_reb_0": "2026-06-02 15:09:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-02 15:09:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2026-06-02 15:09:54 -0300"
+    },
+    "done": false
+  },
+  "mts:root": {
+    "criteria": {
+      "crafting": "2026-06-02 15:09:48 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

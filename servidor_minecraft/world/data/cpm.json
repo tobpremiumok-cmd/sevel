@@ -1,0 +1,47 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "player_scaling": {
+    "a2e31919-0899-33c7-8e63-343e1f402231": {},
+    "0cfb8c13-6e58-408a-ac9c-24a9f2530237": {},
+    "8c117b56-c409-3d89-a92e-485b2757a868": {},
+    "8dd2fe12-c0c9-33f7-9bd6-a3e9568c6fd8": {
+      "scale": 1.0,
+      "motion": 1.0,
+      "stepHeight": 1.0,
+      "fdmg": 1.0,
+      "reach": 1.0,
+      "msp": 1.0,
+      "asp": 1.0,
+      "akb": 1.0,
+      "attack": 1.0,
+      "defense": 1.0,
+      "health": 1.0,
+      "mob_vis": 1.0,
+      "jump_height": 1.0,
+      "kbr": 1.0,
+      "safe_fall": 1.0
+    },
+    "42b7cd8f-2635-3e08-8ba4-ea246cd12efd": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "mining_speed": {},
+    "motion": {},
+    "mob_visibility": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "jump_height": {},
+    "attack_speed": {},
+    "safe_fall_distance": {},
+    "defense": {},
+    "attack_knockback": {},
+    "step_height": {},
+    "attack_dmg": {},
+    "fall_damage": {},
+    "entity": {}
+  },
+  "skins": {}
+}

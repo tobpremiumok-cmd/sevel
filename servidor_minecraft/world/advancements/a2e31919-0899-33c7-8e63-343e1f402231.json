@@ -1,0 +1,6788 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-01 05:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-06-08 02:44:08 +0000",
+      "minecraft:beach": "2026-06-07 02:06:32 +0000",
+      "minecraft:stony_peaks": "2026-06-07 04:22:28 +0000",
+      "minecraft:dark_forest": "2026-06-08 02:43:11 +0000",
+      "minecraft:mushroom_fields": "2026-06-01 05:04:35 +0000",
+      "minecraft:forest": "2026-06-08 03:21:57 +0000",
+      "minecraft:taiga": "2026-06-07 04:17:43 +0000",
+      "minecraft:deep_ocean": "2026-06-08 03:53:01 +0000",
+      "minecraft:river": "2026-06-07 01:02:30 +0000",
+      "minecraft:snowy_plains": "2026-06-07 01:02:37 +0000",
+      "minecraft:desert": "2026-06-08 02:28:49 +0000",
+      "minecraft:ocean": "2026-06-07 01:02:31 +0000",
+      "minecraft:jungle": "2026-06-08 02:16:58 +0000",
+      "minecraft:birch_forest": "2026-06-08 02:17:52 +0000",
+      "minecraft:plains": "2026-06-06 23:59:37 +0000"
+    },
+    "done": false
+  },
+  "mts:root": {
+    "criteria": {
+      "crafting": "2026-06-01 05:04:35 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_coal": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "camping:main/root": {
+    "criteria": {
+      "bags": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "wild_strawberry": "2026-06-03 15:16:26 +0000",
+      "oat": "2026-06-03 15:16:26 +0000",
+      "onion": "2026-06-03 15:16:26 +0000",
+      "corn": "2026-06-03 15:16:26 +0000",
+      "wild_ribwort": "2026-06-03 15:16:26 +0000",
+      "wild_corn": "2026-06-03 15:16:26 +0000",
+      "strawberry": "2026-06-03 15:16:26 +0000",
+      "wild_nettle": "2026-06-03 15:16:26 +0000",
+      "barley": "2026-06-03 15:16:26 +0000",
+      "tomato": "2026-06-03 15:16:26 +0000",
+      "lettuce": "2026-06-03 15:16:26 +0000",
+      "wild_tomatoes": "2026-06-03 15:16:26 +0000",
+      "wild_lettuce": "2026-06-03 15:16:26 +0000",
+      "oat_seeds": "2026-06-03 15:16:26 +0000",
+      "strawberry_seeds": "2026-06-03 15:16:26 +0000",
+      "tomato_seeds": "2026-06-03 15:16:26 +0000",
+      "barley_seeds": "2026-06-03 15:16:26 +0000",
+      "lettuce_seeds": "2026-06-03 15:16:26 +0000",
+      "kernels": "2026-06-03 15:16:26 +0000",
+      "wild_barley": "2026-06-03 15:16:26 +0000",
+      "wild_onion": "2026-06-03 15:16:26 +0000",
+      "wild_oat": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/cherry": {
+    "criteria": {
+      "has_cherry": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/root": {
+    "criteria": {
+      "0": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_cherry_logs": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2026-06-03 15:16:26 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/welcome_to_the_beach": {
+    "criteria": {
+      "enter_beach": "2026-06-03 15:16:35 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2026-06-03 15:16:35 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-06-03 15:16:35 +0000"
+    },
+    "done": true
+  },
+  "mts:rtfm": {
+    "criteria": {
+      "manual": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sacramento_picture_frame": {
+    "criteria": {
+      "has_sacramento_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/umber_plastic_lights": {
+    "criteria": {
+      "has_umber_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/wasabi_plastic_lights": {
+    "criteria": {
+      "has_wasabi_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/rose_picture_frame_from_base": {
+    "criteria": {
+      "has_rose_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/canary_picture_frame_from_base": {
+    "criteria": {
+      "has_canary_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/coral_plastic_lights": {
+    "criteria": {
+      "has_coral_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/coral_picture_frame": {
+    "criteria": {
+      "has_coral_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "mts:partscanner": {
+    "criteria": {
+      "partscanner": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/wasabi_picture_frame_from_base": {
+    "criteria": {
+      "has_wasabi_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/wasabi_picture_frame": {
+    "criteria": {
+      "has_wasabi_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sky_picture_frame": {
+    "criteria": {
+      "has_sky_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/blurple_picture_frame": {
+    "criteria": {
+      "has_blurple_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/lavender_picture_frame": {
+    "criteria": {
+      "has_lavender_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/rose_plastic_lights": {
+    "criteria": {
+      "has_rose_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sky_picture_frame_from_base": {
+    "criteria": {
+      "has_sky_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/rose_picture_frame": {
+    "criteria": {
+      "has_rose_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/lavender_picture_frame_from_base": {
+    "criteria": {
+      "has_lavender_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/umber_picture_frame_from_base": {
+    "criteria": {
+      "has_umber_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/blurple_picture_frame_from_base": {
+    "criteria": {
+      "has_blurple_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/coral_picture_frame_from_base": {
+    "criteria": {
+      "has_coral_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/umber_picture_frame": {
+    "criteria": {
+      "has_umber_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sacramento_plastic_lights": {
+    "criteria": {
+      "has_sacramento_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sacramento_picture_frame_from_base": {
+    "criteria": {
+      "has_sacramento_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/blurple_plastic_lights": {
+    "criteria": {
+      "has_blurple_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/canary_picture_frame": {
+    "criteria": {
+      "has_canary_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sangria_plastic_lights": {
+    "criteria": {
+      "has_sangria_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sky_plastic_lights": {
+    "criteria": {
+      "has_sky_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/lavender_plastic_lights": {
+    "criteria": {
+      "has_lavender_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sangria_picture_frame_from_base": {
+    "criteria": {
+      "has_sangria_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/canary_plastic_lights": {
+    "criteria": {
+      "has_canary_plastic_lights": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/sangria_picture_frame": {
+    "criteria": {
+      "has_sangria_picture_frame": "2026-06-06 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-06-06 23:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-06-07 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/white_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 00:34:00 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/white_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 00:34:00 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/traffic_cone_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 00:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-07 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/green_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 00:57:11 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/green_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 00:57:11 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/parked_green_bike_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 00:57:11 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/grey_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/grey_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/grey_trash_can_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 01:00:42 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/light_grey_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:04:04 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/light_grey_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:04:04 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/parked_yellow_bike_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:04:05 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/yellow_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:04:05 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/yellow_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 01:04:05 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slab": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2026-06-07 01:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-06-07 01:05:50 +0000"
+    },
+    "done": true
+  },
+  "mts:wrench": {
+    "criteria": {
+      "wrench": "2026-06-07 01:05:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_masonry_corner": {
+    "criteria": {
+      "hasFramedSlabEdge": "2026-06-07 01:07:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedSlabEdge": "2026-06-07 01:07:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_slab": {
+    "criteria": {
+      "hasFramedSlabEdge": "2026-06-07 01:07:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2026-06-07 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2026-06-07 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2026-06-07 01:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-06-07 01:25:21 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/decorations/dragon_teeth": {
+    "criteria": {
+      "has_smooth_stone": "2026-06-07 01:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-06-07 01:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-06-07 01:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/crystal_barrel": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/crystal_spring": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/crystal_action": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_minecraft:amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_minecraft:amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/crystal_trigger": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-06-07 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_double_stairs_rotate_to_framed_double_stairs": {
+    "criteria": {
+      "hasFramedVerticalDoubleStairs": "2026-06-07 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_divided_slab_rotate_to_framed_divided_panel_horizontal": {
+    "criteria": {
+      "hasFramedDividedSlab": "2026-06-07 01:44:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2026-06-07 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_minecraft:stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-07 02:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/stove": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2026-06-07 02:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2026-06-07 02:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-06-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-06-07 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2026-06-07 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-06-07 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2026-06-07 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-06-07 19:23:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2026-06-07 19:24:40 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/black_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 19:25:07 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/black_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 19:25:07 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/small_fountain_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dough_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mozzarella": {
+    "criteria": {
+      "has_water_bucket": "2026-06-07 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-06-07 19:44:32 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_post": {
+    "criteria": {
+      "hasFramedFence": "2026-06-07 19:57:43 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_threeway_corner_pillar": {
+    "criteria": {
+      "hasFramedThreewayCornerPillar": "2026-06-07 21:04:14 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pillar_socket_from_split_pillar_socket": {
+    "criteria": {
+      "hasFramedSplitPillarSocket": "2026-06-07 21:05:27 +0000"
+    },
+    "done": true
+  },
+  "mts:fuelpump": {
+    "criteria": {
+      "fuelpump": "2026-06-07 21:06:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_checkered_cube": {
+    "criteria": {
+      "hasFramedSlabCorner": "2026-06-07 21:08:36 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_pillar": {
+    "criteria": {
+      "hasFramedSlabCorner": "2026-06-07 21:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-07 21:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2026-06-07 22:43:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/spruce_box": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/flowerbox_roses_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/propeller": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/flowerbox_peony_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/flowerbox_bush_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/spruce_calendar": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/mossy_spruce_planks_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_minecraft:spruce_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2026-06-07 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:49:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2026-06-07 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-07 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ext_inner_corner_slope_panel": {
+    "criteria": {
+      "hasFramedSmallInnerCornerSlopePanel": "2026-06-07 23:04:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stacked_inner_corner_slope_panel": {
+    "criteria": {
+      "hasFramedSmallInnerCornerSlopePanel": "2026-06-07 23:04:34 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar_from_pillar": {
+    "criteria": {
+      "hasFramedPillar": "2026-06-07 23:04:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_split_pillar_socket": {
+    "criteria": {
+      "hasFramedPillarSocket": "2026-06-07 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/window": {
+    "criteria": {
+      "has_black_stained_glass_pane": "2026-06-07 23:44:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/floorboard": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/rolling_pin": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/wall_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/chocolate_box": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_shelf": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/mossy_oak_planks_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_bath": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_basin": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/street_sign": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/tray": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/oak_box": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/oak_calendar": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_counter": {
+    "criteria": {
+      "has_oak_planks": "2026-06-07 23:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/stone_bricks_stove": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/stone_bricks_kitchen_sink": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/stone_bricks_counter": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2026-06-08 00:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-08 00:11:19 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/blue_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-08 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/blue_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-08 00:15:54 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ptkm_1r": {
+    "criteria": {
+      "has_calibrated_sculk_sensor": "2026-06-08 00:28:23 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_door": {
+    "criteria": {
+      "hasFramedDoor": "2026-06-08 00:31:11 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gate": {
+    "criteria": {
+      "hasFramedDoor": "2026-06-08 00:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_microwave": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_stove": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_minecraft:glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-08 00:31:20 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/steel_hammer": {
+    "criteria": {
+      "has_steel_block": "2026-06-08 00:32:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/steel_ingot_from_block": {
+    "criteria": {
+      "has_steel_block": "2026-06-08 00:32:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2026-06-08 00:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-06-08 00:45:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/hammer": {
+    "criteria": {
+      "has_iron_block": "2026-06-08 00:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-06-08 00:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-06-08 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_panel": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2026-06-08 00:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-06-08 01:08:34 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/small_aerial_bomb_from_medium_aerial_bomb": {
+    "criteria": {
+      "has_medium_aerial_bomb": "2026-06-08 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/red_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-08 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/red_wall_mailbox_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-06-08 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/fire_hydrant_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-08 01:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-06-08 02:13:54 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/small_green_bush_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-08 02:13:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_minecraft:oak_leaves": "2026-06-08 02:13:54 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/artsy_bush_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-08 02:13:54 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lantern": {
+    "criteria": {
+      "hasTorch": "2026-06-08 03:01:10 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/cyan_terracotta_planter_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-08 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2026-06-08 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_grate_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_grate": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_chiseled_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_exposed_copper_bulb": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2026-06-08 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-06-08 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-06-08 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-06-08 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-06-08 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/decorations/barbed_wire": {
+    "criteria": {
+      "has_iron_bars": "2026-06-08 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mortar_bipod": {
+    "criteria": {
+      "has_iron_bars": "2026-06-08 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "sc_prettycity:recipes/crowd_control_barrier_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-06-08 04:11:40 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_adollars_from_hundred_adollars": {
+    "criteria": {
+      "has_hundred_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_acents_from_twenty_acents": {
+    "criteria": {
+      "has_twenty_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_in_rupees": {
+    "criteria": {
+      "has_one_in_rupee": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_tr_lira_from_hundred_tr_lira": {
+    "criteria": {
+      "has_hundred_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_lei_md_from_zece_lei_md": {
+    "criteria": {
+      "has_zece_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_eg_pound": {
+    "criteria": {
+      "has_ten_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/douazeci_lei": {
+    "criteria": {
+      "has_zece_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_rs_dinar_from_five_hundred_rs_dinar": {
+    "criteria": {
+      "has_five_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_cn_yuan": {
+    "criteria": {
+      "has_fifty_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twentyfive_eg_piastres_from_fifty_eg_piastres": {
+    "criteria": {
+      "has_fifty_eg_piastres": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_dk_krone": {
+    "criteria": {
+      "has_fifty_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei_from_doua_sute_lei": {
+    "criteria": {
+      "has_doua_sute_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cdollars_from_hundred_cdollars": {
+    "criteria": {
+      "has_hundred_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_cz_krone_from_two_thousand_cz_krone": {
+    "criteria": {
+      "has_two_thousand_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_leu_md_from_cinci_lei_md": {
+    "criteria": {
+      "has_cinci_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ph_piso_from_ten_ph_piso": {
+    "criteria": {
+      "has_ten_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twentyfive_br_centavos_from_fifty_br_centavos": {
+    "criteria": {
+      "has_fifty_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_five_kurus_from_fifty_kurus": {
+    "criteria": {
+      "has_fifty_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_br_reais_from_twenty_br_reais": {
+    "criteria": {
+      "has_twenty_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_bani_md_from_un_leu_md": {
+    "criteria": {
+      "has_un_leu_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_rs_dinar_from_two_hundred_rs_dinar": {
+    "criteria": {
+      "has_two_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_cz_krone": {
+    "criteria": {
+      "has_ten_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_mx_pesos": {
+    "criteria": {
+      "has_ten_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cn_yuan": {
+    "criteria": {
+      "has_one_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_groszy_from_twenty_groszy": {
+    "criteria": {
+      "has_twenty_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_kurus_from_five_kurus": {
+    "criteria": {
+      "has_five_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_francs_from_two_hundred_francs": {
+    "criteria": {
+      "has_two_hundred_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_no_krone_from_fifty_no_krone": {
+    "criteria": {
+      "has_fifty_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_za_rand": {
+    "criteria": {
+      "has_five_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/loonie": {
+    "criteria": {
+      "has_twentyfive_ccents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_tr_lira": {
+    "criteria": {
+      "has_fifty_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_is_krone": {
+    "criteria": {
+      "has_five_hundred_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twentyfive_ccents_from_loonie": {
+    "criteria": {
+      "has_loonie": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pence_from_fifty_pence": {
+    "criteria": {
+      "has_fifty_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_zloty_from_ten_zloty": {
+    "criteria": {
+      "has_ten_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ecents_from_twenty_ecents": {
+    "criteria": {
+      "has_twenty_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_ph_piso": {
+    "criteria": {
+      "has_ten_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_cn_jiao_from_five_cn_jiao": {
+    "criteria": {
+      "has_five_cn_jiao": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_mx_peso": {
+    "criteria": {
+      "has_fifty_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_bani_from_zece_bani": {
+    "criteria": {
+      "has_zece_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_br_reais_from_fifty_br_reais": {
+    "criteria": {
+      "has_fifty_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_rs_dinar": {
+    "criteria": {
+      "has_ten_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_no_krone": {
+    "criteria": {
+      "has_five_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_francs": {
+    "criteria": {
+      "has_one_franc": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_tr_lira_from_fifty_tr_lira": {
+    "criteria": {
+      "has_fifty_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_pound_from_five_pounds": {
+    "criteria": {
+      "has_five_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ecents_from_fifty_ecents": {
+    "criteria": {
+      "has_fifty_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_dk_krone": {
+    "criteria": {
+      "has_one_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_zloty": {
+    "criteria": {
+      "has_ten_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_adollars": {
+    "criteria": {
+      "has_one_adollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_cz_krone_from_thousand_cz_krone": {
+    "criteria": {
+      "has_thousand_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_yen_from_ten_thousand_yen": {
+    "criteria": {
+      "has_ten_thousand_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_in_rupee_from_five_in_rupees": {
+    "criteria": {
+      "has_five_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_dk_krone_from_two_dk_krone": {
+    "criteria": {
+      "has_two_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/douazecicinci_bani_md_from_cincizeci_bani_md": {
+    "criteria": {
+      "has_cincizeci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_ft": {
+    "criteria": {
+      "has_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_dk_krone_from_five_dk_krone": {
+    "criteria": {
+      "has_five_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_za_cents_from_twenty_za_cents": {
+    "criteria": {
+      "has_twenty_za_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_rs_dinar": {
+    "criteria": {
+      "has_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_kurus_from_twenty_five_kurus": {
+    "criteria": {
+      "has_twenty_five_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_bani_md_from_douazecicinci_bani_md": {
+    "criteria": {
+      "has_douazecicinci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_ph_piso": {
+    "criteria": {
+      "has_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_is_krone_from_ten_is_krone": {
+    "criteria": {
+      "has_ten_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_is_krone": {
+    "criteria": {
+      "has_hundred_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_tr_lira": {
+    "criteria": {
+      "has_ten_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_za_rand": {
+    "criteria": {
+      "has_one_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_in_rupees": {
+    "criteria": {
+      "has_ten_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_no_krone": {
+    "criteria": {
+      "has_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_kr_won": {
+    "criteria": {
+      "has_ten_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_in_rupees": {
+    "criteria": {
+      "has_hundred_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_za_rand": {
+    "criteria": {
+      "has_fifty_za_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_adollar_from_two_adollars": {
+    "criteria": {
+      "has_two_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_euros": {
+    "criteria": {
+      "has_hundred_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_adollars_from_ten_adollars": {
+    "criteria": {
+      "has_ten_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_is_krone_from_hundred_is_krone": {
+    "criteria": {
+      "has_hundred_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_euros_from_ten_euros": {
+    "criteria": {
+      "has_ten_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ecents_from_one_euro": {
+    "criteria": {
+      "has_one_euro": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/mie_lei_md": {
+    "criteria": {
+      "has_cinci_sute_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_in_rupees_from_twenty_in_rupees": {
+    "criteria": {
+      "has_twenty_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pence_from_twenty_pence": {
+    "criteria": {
+      "has_twenty_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_bani": {
+    "criteria": {
+      "has_cinci_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_pence_from_one_pound": {
+    "criteria": {
+      "has_one_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_groszy_from_ten_groszy": {
+    "criteria": {
+      "has_ten_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_cn_yuan_from_five_cn_yuan": {
+    "criteria": {
+      "has_five_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_mx_pesos_from_hundred_mx_pesos": {
+    "criteria": {
+      "has_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_centimes_from_ten_centimes": {
+    "criteria": {
+      "has_ten_centimes": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_francs_from_ten_francs": {
+    "criteria": {
+      "has_ten_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_mx_pesos_from_thousand_mx_pesos": {
+    "criteria": {
+      "has_thousand_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_rs_dinar": {
+    "criteria": {
+      "has_five_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ccents_from_twentyfive_ccents": {
+    "criteria": {
+      "has_twentyfive_ccents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ft": {
+    "criteria": {
+      "has_fifty_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_euros_from_five_hundred_euros": {
+    "criteria": {
+      "has_five_hundred_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_mx_peso_from_five_mx_pesos": {
+    "criteria": {
+      "has_five_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cn_jiao_from_one_cn_yuan": {
+    "criteria": {
+      "has_one_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei_from_cincizeci_lei": {
+    "criteria": {
+      "has_cincizeci_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_dk_krone_from_twenty_dk_krone": {
+    "criteria": {
+      "has_twenty_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_nz_dollars_from_hundred_nz_dollars": {
+    "criteria": {
+      "has_hundred_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_pence": {
+    "criteria": {
+      "has_ten_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_thousand_rs_dinar": {
+    "criteria": {
+      "has_thousand_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_mx_pesos_from_five_hundred_mx_pesos": {
+    "criteria": {
+      "has_five_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_tr_lira": {
+    "criteria": {
+      "has_five_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_pounds_from_ten_pounds": {
+    "criteria": {
+      "has_ten_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_nz_dollars": {
+    "criteria": {
+      "has_five_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/loonie_from_toonie": {
+    "criteria": {
+      "has_toonie": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_acents_from_fifty_acents": {
+    "criteria": {
+      "has_fifty_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_rs_dinar": {
+    "criteria": {
+      "has_thousand_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_lei_from_suta_lei": {
+    "criteria": {
+      "has_suta_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_in_rupees_from_ten_in_rupees": {
+    "criteria": {
+      "has_ten_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_eg_pound": {
+    "criteria": {
+      "has_five_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ph_piso_from_two_hundred_ph_piso": {
+    "criteria": {
+      "has_two_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_rs_dinar": {
+    "criteria": {
+      "has_one_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_za_rand_from_five_za_rand": {
+    "criteria": {
+      "has_five_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_dk_krone": {
+    "criteria": {
+      "has_ten_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_euro_from_five_euros": {
+    "criteria": {
+      "has_five_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_no_krone_from_two_hundred_no_krone": {
+    "criteria": {
+      "has_two_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_adollars": {
+    "criteria": {
+      "has_ten_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/half_franc": {
+    "criteria": {
+      "has_ten_centimes": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_yen_from_ten_yen": {
+    "criteria": {
+      "has_ten_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_pence": {
+    "criteria": {
+      "has_one_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_kr_won_from_hundred_kr_won": {
+    "criteria": {
+      "has_hundred_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_eg_pound_from_hundred_eg_pound": {
+    "criteria": {
+      "has_hundred_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_cz_krone": {
+    "criteria": {
+      "has_fifty_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_nz_dollars_from_twenty_nz_dollars": {
+    "criteria": {
+      "has_twenty_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_se_krone_from_fifty_se_krone": {
+    "criteria": {
+      "has_fifty_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_adollar_from_five_adollars": {
+    "criteria": {
+      "has_five_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_dk_krone_from_hundred_dk_krone": {
+    "criteria": {
+      "has_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_adollars": {
+    "criteria": {
+      "has_fifty_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_eg_pound_from_two_hundred_eg_pound": {
+    "criteria": {
+      "has_two_hundred_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ft": {
+    "criteria": {
+      "has_five_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_rs_dinar_from_fifty_rs_dinar": {
+    "criteria": {
+      "has_fifty_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_euros_from_hundred_euros": {
+    "criteria": {
+      "has_hundred_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_br_real_from_five_br_reais": {
+    "criteria": {
+      "has_five_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_cz_krone": {
+    "criteria": {
+      "has_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_five_kurus": {
+    "criteria": {
+      "has_five_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cn_jiao": {
+    "criteria": {
+      "has_one_cn_jiao": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_se_krone_from_five_hundred_se_krone": {
+    "criteria": {
+      "has_five_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_pence_from_five_pence": {
+    "criteria": {
+      "has_five_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_dk_krone": {
+    "criteria": {
+      "has_fifty_aere_dk": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_adollars": {
+    "criteria": {
+      "has_five_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_euros": {
+    "criteria": {
+      "has_fifty_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_ph_piso": {
+    "criteria": {
+      "has_five_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_euro_from_two_euros": {
+    "criteria": {
+      "has_two_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cz_krone_from_fifty_cz_krone": {
+    "criteria": {
+      "has_fifty_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_leu": {
+    "criteria": {
+      "has_cincizeci_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_ft_from_twenty_thousand_ft": {
+    "criteria": {
+      "has_twenty_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_adollar": {
+    "criteria": {
+      "has_fifty_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_leu_md_from_doi_lei_md": {
+    "criteria": {
+      "has_doi_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei_md": {
+    "criteria": {
+      "has_cinci_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_zloty": {
+    "criteria": {
+      "has_hundred_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_ft_from_thousand_ft": {
+    "criteria": {
+      "has_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_eg_pound_from_twenty_eg_pound": {
+    "criteria": {
+      "has_twenty_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_leu_md": {
+    "criteria": {
+      "has_cincizeci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_centavos": {
+    "criteria": {
+      "has_five_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_br_reais": {
+    "criteria": {
+      "has_ten_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_rs_dinar": {
+    "criteria": {
+      "has_one_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_leu_from_cinci_lei": {
+    "criteria": {
+      "has_cinci_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_zloty_from_fifty_zloty": {
+    "criteria": {
+      "has_fifty_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei_md": {
+    "criteria": {
+      "has_cincizeci_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_euros": {
+    "criteria": {
+      "has_one_euro": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_ft": {
+    "criteria": {
+      "has_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_yen": {
+    "criteria": {
+      "has_ten_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_ph_piso": {
+    "criteria": {
+      "has_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei_md_from_douazeci_lei_md": {
+    "criteria": {
+      "has_douazeci_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_kurus_from_ten_kurus": {
+    "criteria": {
+      "has_ten_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cz_krone": {
+    "criteria": {
+      "has_one_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_cz_krone_from_five_thousand_cz_krone": {
+    "criteria": {
+      "has_five_thousand_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_cdollars": {
+    "criteria": {
+      "has_fifty_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_no_krone_from_five_no_krone": {
+    "criteria": {
+      "has_five_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_ph_sentimo_from_five_ph_sentimo": {
+    "criteria": {
+      "has_five_ph_sentimo": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_kr_won": {
+    "criteria": {
+      "has_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_franc_from_two_francs": {
+    "criteria": {
+      "has_two_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ccents": {
+    "criteria": {
+      "has_five_ccents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cz_krone": {
+    "criteria": {
+      "has_five_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_se_krone_from_five_se_krone": {
+    "criteria": {
+      "has_five_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ph_piso": {
+    "criteria": {
+      "has_five_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_no_krone": {
+    "criteria": {
+      "has_ten_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_se_krone": {
+    "criteria": {
+      "has_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_tr_lira_from_ten_tr_lira": {
+    "criteria": {
+      "has_ten_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_kr_won": {
+    "criteria": {
+      "has_fifty_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ph_sentimo": {
+    "criteria": {
+      "has_one_ph_sentimo": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_bani_from_cincizeci_bani": {
+    "criteria": {
+      "has_cincizeci_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_yen": {
+    "criteria": {
+      "has_five_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_ecents": {
+    "criteria": {
+      "has_ten_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_eg_pound": {
+    "criteria": {
+      "has_fifty_eg_piastres": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_br_reais": {
+    "criteria": {
+      "has_one_br_real": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_francs": {
+    "criteria": {
+      "has_ten_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_eg_pound": {
+    "criteria": {
+      "has_fifty_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_in_rupees_from_fifty_in_rupees": {
+    "criteria": {
+      "has_fifty_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_thousand_ft": {
+    "criteria": {
+      "has_ten_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_groszy": {
+    "criteria": {
+      "has_ten_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_euros_from_twenty_euros": {
+    "criteria": {
+      "has_twenty_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_cz_krone_from_two_hundred_cz_krone": {
+    "criteria": {
+      "has_two_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_cn_yuan": {
+    "criteria": {
+      "has_ten_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_thousand_cz_krone": {
+    "criteria": {
+      "has_thousand_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_is_krone": {
+    "criteria": {
+      "has_five_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_yen_from_thousand_yen": {
+    "criteria": {
+      "has_thousand_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cn_yuan_from_hundred_cn_yuan": {
+    "criteria": {
+      "has_hundred_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_nz_dollars_from_ten_nz_dollars": {
+    "criteria": {
+      "has_ten_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_eg_pound_from_five_eg_pound": {
+    "criteria": {
+      "has_five_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_lei_md_from_suta_lei_md": {
+    "criteria": {
+      "has_suta_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_rs_dinar_from_thousand_rs_dinar": {
+    "criteria": {
+      "has_thousand_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_mx_pesos": {
+    "criteria": {
+      "has_ten_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_dk_krone_from_fifty_dk_krone": {
+    "criteria": {
+      "has_fifty_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_rs_dinar": {
+    "criteria": {
+      "has_fifty_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ph_piso_from_fifty_ph_piso": {
+    "criteria": {
+      "has_fifty_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_adollars": {
+    "criteria": {
+      "has_one_adollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_is_krone": {
+    "criteria": {
+      "has_ten_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cdollars": {
+    "criteria": {
+      "has_ten_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_in_rupees": {
+    "criteria": {
+      "has_one_in_rupee": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ph_piso_from_five_hundred_ph_piso": {
+    "criteria": {
+      "has_five_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_za_cents_from_fifty_za_cents": {
+    "criteria": {
+      "has_fifty_za_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_tr_lira": {
+    "criteria": {
+      "has_fifty_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_ft": {
+    "criteria": {
+      "has_five_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_kr_won_from_five_thousand_kr_won": {
+    "criteria": {
+      "has_five_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei": {
+    "criteria": {
+      "has_cinci_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_is_krone": {
+    "criteria": {
+      "has_fifty_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_acents_from_ten_acents": {
+    "criteria": {
+      "has_ten_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_centimes_from_half_franc": {
+    "criteria": {
+      "has_half_franc": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_eg_pound_from_fifty_eg_pound": {
+    "criteria": {
+      "has_fifty_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_tr_lira": {
+    "criteria": {
+      "has_one_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_cz_krone_from_five_cz_krone": {
+    "criteria": {
+      "has_five_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_francs": {
+    "criteria": {
+      "has_fifty_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_bani_from_un_leu": {
+    "criteria": {
+      "has_un_leu": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_yen_from_five_hundred_yen": {
+    "criteria": {
+      "has_five_hundred_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_mx_pesos": {
+    "criteria": {
+      "has_one_mx_peso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/half_franc_from_one_franc": {
+    "criteria": {
+      "has_one_franc": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_br_reais_from_hundred_br_reais": {
+    "criteria": {
+      "has_hundred_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pounds_from_fifty_pounds": {
+    "criteria": {
+      "has_fifty_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_cn_yuan": {
+    "criteria": {
+      "has_five_cn_jiao": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_nz_cents_from_one_nz_dollar": {
+    "criteria": {
+      "has_one_nz_dollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_eg_piastres": {
+    "criteria": {
+      "has_twentyfive_eg_piastres": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_tr_lira_from_twenty_tr_lira": {
+    "criteria": {
+      "has_twenty_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_mx_pesos": {
+    "criteria": {
+      "has_fifty_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_eg_pound_from_ten_eg_pound": {
+    "criteria": {
+      "has_ten_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_zloty_from_five_hundred_zloty": {
+    "criteria": {
+      "has_five_hundred_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_nz_dollars": {
+    "criteria": {
+      "has_one_nz_dollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/douazecicinci_bani_md": {
+    "criteria": {
+      "has_cinci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_ecents": {
+    "criteria": {
+      "has_one_ecent": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_ft": {
+    "criteria": {
+      "has_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_mx_centavos_from_one_mx_peso": {
+    "criteria": {
+      "has_one_mx_peso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twentyfive_ccents": {
+    "criteria": {
+      "has_five_ccents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_bani_md": {
+    "criteria": {
+      "has_douazecicinci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_dk_krone_from_ten_dk_krone": {
+    "criteria": {
+      "has_ten_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_br_centavos_from_twentyfive_br_centavos": {
+    "criteria": {
+      "has_twentyfive_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cdollars_from_fifty_cdollars": {
+    "criteria": {
+      "has_fifty_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_yen_from_five_yen": {
+    "criteria": {
+      "has_five_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_za_rand_from_two_za_rand": {
+    "criteria": {
+      "has_two_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_se_krone": {
+    "criteria": {
+      "has_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_in_rupees": {
+    "criteria": {
+      "has_hundred_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_tr_lira_from_five_tr_lira": {
+    "criteria": {
+      "has_five_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_sute_lei_md_from_mie_lei_md": {
+    "criteria": {
+      "has_mie_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_franc_from_five_francs": {
+    "criteria": {
+      "has_five_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_euros": {
+    "criteria": {
+      "has_ten_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_lei_from_zece_lei": {
+    "criteria": {
+      "has_zece_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_cz_krone_from_five_hundred_cz_krone": {
+    "criteria": {
+      "has_five_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_za_rand": {
+    "criteria": {
+      "has_ten_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_kr_won_from_five_hundred_kr_won": {
+    "criteria": {
+      "has_five_hundred_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_za_rand_from_two_hundred_za_rand": {
+    "criteria": {
+      "has_two_hundred_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_ecent_from_five_ecents": {
+    "criteria": {
+      "has_five_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_nz_dollar_from_two_nz_dollars": {
+    "criteria": {
+      "has_two_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_pounds": {
+    "criteria": {
+      "has_one_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_kr_won": {
+    "criteria": {
+      "has_hundred_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_se_krone": {
+    "criteria": {
+      "has_ten_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei_from_douazeci_lei": {
+    "criteria": {
+      "has_douazeci_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_mx_centavos": {
+    "criteria": {
+      "has_ten_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ecents_from_ten_ecents": {
+    "criteria": {
+      "has_ten_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_kr_won": {
+    "criteria": {
+      "has_five_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_cz_krone": {
+    "criteria": {
+      "has_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_thousand_kr_won": {
+    "criteria": {
+      "has_ten_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_se_krone": {
+    "criteria": {
+      "has_five_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/doua_sute_lei": {
+    "criteria": {
+      "has_suta_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_za_rand": {
+    "criteria": {
+      "has_fifty_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_mx_pesos_from_two_hundred_mx_pesos": {
+    "criteria": {
+      "has_two_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_dk_krone_from_two_hundred_dk_krone": {
+    "criteria": {
+      "has_two_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_ph_piso_from_thousand_ph_piso": {
+    "criteria": {
+      "has_thousand_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_pesos_from_twenty_mx_pesos": {
+    "criteria": {
+      "has_twenty_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twentyfive_br_centavos": {
+    "criteria": {
+      "has_five_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_mx_pesos": {
+    "criteria": {
+      "has_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_cz_krone_from_two_cz_krone": {
+    "criteria": {
+      "has_two_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_pounds": {
+    "criteria": {
+      "has_ten_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_nz_cents": {
+    "criteria": {
+      "has_ten_nz_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cn_yuan": {
+    "criteria": {
+      "has_five_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_bani": {
+    "criteria": {
+      "has_zece_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_rs_dinar_from_two_rs_dinar": {
+    "criteria": {
+      "has_two_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_is_krone_from_five_hundred_is_krone": {
+    "criteria": {
+      "has_five_hundred_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_no_krone_from_thousand_no_krone": {
+    "criteria": {
+      "has_thousand_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_za_cents_from_one_za_rand": {
+    "criteria": {
+      "has_one_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_bani": {
+    "criteria": {
+      "has_un_ban": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_no_krone_from_five_hundred_no_krone": {
+    "criteria": {
+      "has_five_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_euros_from_fifty_euros": {
+    "criteria": {
+      "has_fifty_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_za_rand_from_ten_za_rand": {
+    "criteria": {
+      "has_ten_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_francs_from_hundred_francs": {
+    "criteria": {
+      "has_hundred_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_no_krone": {
+    "criteria": {
+      "has_ten_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_tr_lira": {
+    "criteria": {
+      "has_hundred_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_bani_md": {
+    "criteria": {
+      "has_cinci_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_mx_peso_from_two_mx_pesos": {
+    "criteria": {
+      "has_two_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_adollars_from_fifty_adollars": {
+    "criteria": {
+      "has_fifty_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_pesos_from_fifty_mx_pesos": {
+    "criteria": {
+      "has_fifty_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_bani_md_from_zece_bani_md": {
+    "criteria": {
+      "has_zece_bani_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_is_krone_from_ten_thousand_is_krone": {
+    "criteria": {
+      "has_ten_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_zloty": {
+    "criteria": {
+      "has_one_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_br_centavos": {
+    "criteria": {
+      "has_five_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_adollars_from_twenty_adollars": {
+    "criteria": {
+      "has_twenty_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_dk_krone_from_five_hundred_dk_krone": {
+    "criteria": {
+      "has_five_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_ft": {
+    "criteria": {
+      "has_ten_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_francs": {
+    "criteria": {
+      "has_ten_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cdollars": {
+    "criteria": {
+      "has_five_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_nz_dollars_from_fifty_nz_dollars": {
+    "criteria": {
+      "has_fifty_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_is_krone": {
+    "criteria": {
+      "has_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_za_rand_from_twenty_za_rand": {
+    "criteria": {
+      "has_twenty_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_mx_pesos": {
+    "criteria": {
+      "has_five_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_in_rupees": {
+    "criteria": {
+      "has_fifty_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_groszy_from_one_zloty": {
+    "criteria": {
+      "has_one_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_zloty": {
+    "criteria": {
+      "has_fifty_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_euros": {
+    "criteria": {
+      "has_five_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_dk_krone": {
+    "criteria": {
+      "has_five_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_dk_krone": {
+    "criteria": {
+      "has_ten_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_nz_dollar": {
+    "criteria": {
+      "has_fifty_nz_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_francs_from_twenty_francs": {
+    "criteria": {
+      "has_twenty_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_se_krone_from_hundred_se_krone": {
+    "criteria": {
+      "has_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_kr_won_from_thousand_kr_won": {
+    "criteria": {
+      "has_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_euros_from_two_hundred_euros": {
+    "criteria": {
+      "has_two_hundred_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_br_reais_from_two_hundred_br_reais": {
+    "criteria": {
+      "has_two_hundred_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_nz_dollars": {
+    "criteria": {
+      "has_fifty_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cdollars_from_twenty_cdollars": {
+    "criteria": {
+      "has_twenty_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_za_rand": {
+    "criteria": {
+      "has_one_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cn_yuan": {
+    "criteria": {
+      "has_ten_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_nz_dollar_from_five_nz_dollars": {
+    "criteria": {
+      "has_five_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_acents": {
+    "criteria": {
+      "has_ten_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_dk_krone": {
+    "criteria": {
+      "has_one_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_yen": {
+    "criteria": {
+      "has_one_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/douazeci_lei_md": {
+    "criteria": {
+      "has_zece_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/un_ban_from_cinci_bani": {
+    "criteria": {
+      "has_cinci_bani": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_rs_dinar_from_twenty_rs_dinar": {
+    "criteria": {
+      "has_twenty_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ph_sentimo_from_twenty_five_ph_sentimo": {
+    "criteria": {
+      "has_twenty_five_ph_sentimo": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_in_rupees": {
+    "criteria": {
+      "has_five_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_kurus": {
+    "criteria": {
+      "has_one_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_no_krone": {
+    "criteria": {
+      "has_fifty_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_acents": {
+    "criteria": {
+      "has_five_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_rs_dinar_from_five_rs_dinar": {
+    "criteria": {
+      "has_five_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_yen": {
+    "criteria": {
+      "has_five_thousand_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_dk_krone": {
+    "criteria": {
+      "has_five_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_is_krone_from_fifty_is_krone": {
+    "criteria": {
+      "has_fifty_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei_md_from_doua_sute_lei_md": {
+    "criteria": {
+      "has_doua_sute_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ft_from_twenty_ft": {
+    "criteria": {
+      "has_twenty_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_zloty_from_twenty_zloty": {
+    "criteria": {
+      "has_twenty_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_is_krone_from_five_thousand_is_krone": {
+    "criteria": {
+      "has_five_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_ecent_from_two_ecents": {
+    "criteria": {
+      "has_two_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_se_krone": {
+    "criteria": {
+      "has_one_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_groszy": {
+    "criteria": {
+      "has_five_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_mx_pesos_from_ten_mx_pesos": {
+    "criteria": {
+      "has_ten_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_zloty_from_hundred_zloty": {
+    "criteria": {
+      "has_hundred_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_br_reais_from_ten_br_reais": {
+    "criteria": {
+      "has_ten_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_nz_cents_from_twenty_nz_cents": {
+    "criteria": {
+      "has_twenty_nz_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_se_krone_from_ten_se_krone": {
+    "criteria": {
+      "has_ten_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_no_krone": {
+    "criteria": {
+      "has_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_br_real_from_two_br_reais": {
+    "criteria": {
+      "has_two_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_sute_lei": {
+    "criteria": {
+      "has_suta_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_tr_lira_from_two_hundred_tr_lira": {
+    "criteria": {
+      "has_two_hundred_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_zloty_from_two_zloty": {
+    "criteria": {
+      "has_two_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_za_rand_from_hundred_za_rand": {
+    "criteria": {
+      "has_hundred_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_se_krone": {
+    "criteria": {
+      "has_ten_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_aere_dk_from_one_dk_krone": {
+    "criteria": {
+      "has_one_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_no_krone_from_ten_no_krone": {
+    "criteria": {
+      "has_ten_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_zloty_from_five_zloty": {
+    "criteria": {
+      "has_five_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_br_centavos_from_ten_br_centavos": {
+    "criteria": {
+      "has_ten_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_francs": {
+    "criteria": {
+      "has_hundred_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_pence": {
+    "criteria": {
+      "has_one_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_euros": {
+    "criteria": {
+      "has_one_euro": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cn_yuan_from_twenty_cn_yuan": {
+    "criteria": {
+      "has_twenty_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_no_krone_from_hundred_no_krone": {
+    "criteria": {
+      "has_hundred_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_ft_from_two_thousand_ft": {
+    "criteria": {
+      "has_two_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_za_rand_from_fifty_za_rand": {
+    "criteria": {
+      "has_fifty_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_zloty_from_two_hundred_zloty": {
+    "criteria": {
+      "has_two_hundred_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_rs_dinar": {
+    "criteria": {
+      "has_five_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_yen": {
+    "criteria": {
+      "has_five_hundred_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_centavos_from_fifty_mx_centavos": {
+    "criteria": {
+      "has_fifty_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_is_krone_from_two_thousand_is_krone": {
+    "criteria": {
+      "has_two_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_pence_from_ten_pence": {
+    "criteria": {
+      "has_ten_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_br_reais": {
+    "criteria": {
+      "has_hundred_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_in_rupees_from_two_hundred_in_rupees": {
+    "criteria": {
+      "has_two_hundred_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_zloty": {
+    "criteria": {
+      "has_hundred_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_za_cents": {
+    "criteria": {
+      "has_ten_za_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_francs": {
+    "criteria": {
+      "has_five_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_ft_from_five_thousand_ft": {
+    "criteria": {
+      "has_five_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_euros": {
+    "criteria": {
+      "has_ten_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_grosz_from_five_groszy": {
+    "criteria": {
+      "has_five_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_francs": {
+    "criteria": {
+      "has_one_franc": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cz_krone_from_hundred_cz_krone": {
+    "criteria": {
+      "has_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei_md_from_cinci_sute_lei_md": {
+    "criteria": {
+      "has_cinci_sute_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_is_krone_from_five_is_krone": {
+    "criteria": {
+      "has_five_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ph_piso_from_twenty_ph_piso": {
+    "criteria": {
+      "has_twenty_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_eg_pound": {
+    "criteria": {
+      "has_one_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_franc": {
+    "criteria": {
+      "has_half_franc": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_br_reais": {
+    "criteria": {
+      "has_ten_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ft_from_five_hundred_ft": {
+    "criteria": {
+      "has_five_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ft_from_two_hundred_ft": {
+    "criteria": {
+      "has_two_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_br_reais": {
+    "criteria": {
+      "has_fifty_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cdollars_from_ten_cdollars": {
+    "criteria": {
+      "has_ten_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_zloty": {
+    "criteria": {
+      "has_five_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_eg_piastres_from_one_eg_pound": {
+    "criteria": {
+      "has_one_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_se_krone_from_two_hundred_se_krone": {
+    "criteria": {
+      "has_two_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_br_centavos_from_one_br_real": {
+    "criteria": {
+      "has_one_br_real": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_se_krone_from_twenty_se_krone": {
+    "criteria": {
+      "has_twenty_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ecents": {
+    "criteria": {
+      "has_five_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_rs_dinar_from_hundred_rs_dinar": {
+    "criteria": {
+      "has_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ph_piso": {
+    "criteria": {
+      "has_one_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_centavos_from_twenty_mx_centavos": {
+    "criteria": {
+      "has_twenty_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_pence_from_two_pence": {
+    "criteria": {
+      "has_two_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_yen_from_hundred_yen": {
+    "criteria": {
+      "has_hundred_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_ft": {
+    "criteria": {
+      "has_five_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_nz_cents": {
+    "criteria": {
+      "has_ten_nz_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_groszy": {
+    "criteria": {
+      "has_one_grosz": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_br_real": {
+    "criteria": {
+      "has_fifty_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_cz_krone": {
+    "criteria": {
+      "has_ten_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_sute_lei_md": {
+    "criteria": {
+      "has_suta_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_se_krone": {
+    "criteria": {
+      "has_five_hundred_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_br_reais": {
+    "criteria": {
+      "has_one_br_real": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_zloty": {
+    "criteria": {
+      "has_one_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cn_yuan_from_ten_cn_yuan": {
+    "criteria": {
+      "has_ten_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pence": {
+    "criteria": {
+      "has_five_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_rs_dinar_from_two_thousand_rs_dinar": {
+    "criteria": {
+      "has_two_thousand_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_no_krone": {
+    "criteria": {
+      "has_five_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_ph_piso": {
+    "criteria": {
+      "has_fifty_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_za_rand": {
+    "criteria": {
+      "has_ten_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_rs_dinar_from_ten_rs_dinar": {
+    "criteria": {
+      "has_ten_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_se_krone": {
+    "criteria": {
+      "has_one_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_dk_krone": {
+    "criteria": {
+      "has_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_eg_pound": {
+    "criteria": {
+      "has_ten_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_five_ph_sentimo": {
+    "criteria": {
+      "has_five_ph_sentimo": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_francs": {
+    "criteria": {
+      "has_two_hundred_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_mx_centavos": {
+    "criteria": {
+      "has_ten_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_is_krone": {
+    "criteria": {
+      "has_five_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_dk_krone_from_thousand_dk_krone": {
+    "criteria": {
+      "has_thousand_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_pounds": {
+    "criteria": {
+      "has_ten_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_mx_pesos": {
+    "criteria": {
+      "has_five_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cz_krone_from_ten_cz_krone": {
+    "criteria": {
+      "has_ten_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_zloty": {
+    "criteria": {
+      "has_fifty_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_ph_piso_from_five_ph_piso": {
+    "criteria": {
+      "has_five_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ph_piso_from_hundred_ph_piso": {
+    "criteria": {
+      "has_hundred_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_mx_pesos": {
+    "criteria": {
+      "has_one_mx_peso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ccents_from_ten_ccents": {
+    "criteria": {
+      "has_ten_ccents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_rs_dinar": {
+    "criteria": {
+      "has_ten_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_cdollars": {
+    "criteria": {
+      "has_loonie": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_kr_won": {
+    "criteria": {
+      "has_five_hundred_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_euros": {
+    "criteria": {
+      "has_hundred_euros": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_no_krone": {
+    "criteria": {
+      "has_one_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_ft_from_fifty_ft": {
+    "criteria": {
+      "has_fifty_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_centimes": {
+    "criteria": {
+      "has_ten_centimes": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_nz_dollars": {
+    "criteria": {
+      "has_ten_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ph_piso": {
+    "criteria": {
+      "has_ten_ph_piso": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_in_rupees": {
+    "criteria": {
+      "has_ten_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ecents": {
+    "criteria": {
+      "has_one_ecent": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_tr_lira": {
+    "criteria": {
+      "has_ten_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_acents": {
+    "criteria": {
+      "has_ten_acents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_mx_pesos": {
+    "criteria": {
+      "has_hundred_mx_pesos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_grosze": {
+    "criteria": {
+      "has_one_grosz": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_dk_krone": {
+    "criteria": {
+      "has_hundred_dk_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_br_centavos": {
+    "criteria": {
+      "has_twentyfive_br_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_pounds": {
+    "criteria": {
+      "has_one_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_acents_from_one_adollar": {
+    "criteria": {
+      "has_one_adollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_ft_from_ten_ft": {
+    "criteria": {
+      "has_ten_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_se_krone_from_two_se_krone": {
+    "criteria": {
+      "has_two_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_thousand_kr_won_from_fifty_thousand_kr_won": {
+    "criteria": {
+      "has_fifty_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_centimes_from_twenty_centimes": {
+    "criteria": {
+      "has_twenty_centimes": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_grosz_from_two_grosze": {
+    "criteria": {
+      "has_two_grosze": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_thousand_ft": {
+    "criteria": {
+      "has_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_pound_from_two_pounds": {
+    "criteria": {
+      "has_two_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_cz_krone": {
+    "criteria": {
+      "has_one_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_se_krone_from_thousand_se_krone": {
+    "criteria": {
+      "has_thousand_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_lei_md": {
+    "criteria": {
+      "has_zece_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_br_reais": {
+    "criteria": {
+      "has_five_br_reais": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_pence": {
+    "criteria": {
+      "has_ten_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_in_rupee_from_two_in_rupees": {
+    "criteria": {
+      "has_two_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_kurus_from_one_tr_lira": {
+    "criteria": {
+      "has_one_tr_lira": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_zloty": {
+    "criteria": {
+      "has_ten_zloty": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/zece_lei_md_from_cincizeci_lei_md": {
+    "criteria": {
+      "has_cincizeci_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_nz_dollars": {
+    "criteria": {
+      "has_one_nz_dollar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_francs_from_thousand_francs": {
+    "criteria": {
+      "has_thousand_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_yen": {
+    "criteria": {
+      "has_fifty_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ecents": {
+    "criteria": {
+      "has_ten_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_kurus": {
+    "criteria": {
+      "has_five_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_cz_krone": {
+    "criteria": {
+      "has_five_hundred_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_yen": {
+    "criteria": {
+      "has_hundred_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_centimes": {
+    "criteria": {
+      "has_five_centimes": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_adollars": {
+    "criteria": {
+      "has_ten_adollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_yen": {
+    "criteria": {
+      "has_thousand_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_is_krone": {
+    "criteria": {
+      "has_one_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_rs_dinar": {
+    "criteria": {
+      "has_hundred_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/loonie_from_five_cdollars": {
+    "criteria": {
+      "has_five_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_za_rand": {
+    "criteria": {
+      "has_hundred_za_rand": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_mx_centavos_from_ten_mx_centavos": {
+    "criteria": {
+      "has_ten_mx_centavos": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_cdollars": {
+    "criteria": {
+      "has_ten_cdollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/doi_lei_md": {
+    "criteria": {
+      "has_un_leu_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_yen_from_five_thousand_yen": {
+    "criteria": {
+      "has_five_thousand_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/twenty_groszy": {
+    "criteria": {
+      "has_ten_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_za_cents": {
+    "criteria": {
+      "has_ten_za_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_cz_krone": {
+    "criteria": {
+      "has_thousand_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_hundred_eg_pound": {
+    "criteria": {
+      "has_hundred_eg_pound": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_lei_md": {
+    "criteria": {
+      "has_un_leu_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ft_from_hundred_ft": {
+    "criteria": {
+      "has_hundred_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_nz_dollars": {
+    "criteria": {
+      "has_ten_nz_dollars": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_pound": {
+    "criteria": {
+      "has_fifty_pence": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cn_yuan_from_fifty_cn_yuan": {
+    "criteria": {
+      "has_fifty_cn_yuan": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pounds_from_twenty_pounds": {
+    "criteria": {
+      "has_twenty_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_nz_cents_from_fifty_nz_cents": {
+    "criteria": {
+      "has_fifty_nz_cents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_kurus": {
+    "criteria": {
+      "has_twenty_five_kurus": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_yen_from_fifty_yen": {
+    "criteria": {
+      "has_fifty_yen": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_kr_won_from_fifty_kr_won": {
+    "criteria": {
+      "has_fifty_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_in_rupees_from_hundred_in_rupees": {
+    "criteria": {
+      "has_hundred_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_francs_from_fifty_francs": {
+    "criteria": {
+      "has_fifty_francs": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_hundred_is_krone_from_thousand_is_krone": {
+    "criteria": {
+      "has_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_kr_won_from_ten_thousand_kr_won": {
+    "criteria": {
+      "has_ten_thousand_kr_won": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cincizeci_lei": {
+    "criteria": {
+      "has_zece_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/thousand_rs_dinar_from_five_thousand_rs_dinar": {
+    "criteria": {
+      "has_five_thousand_rs_dinar": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_se_krone": {
+    "criteria": {
+      "has_fifty_se_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/toonie": {
+    "criteria": {
+      "has_loonie": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_euro": {
+    "criteria": {
+      "has_fifty_ecents": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_ft": {
+    "criteria": {
+      "has_ten_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/five_thousand_ft_from_ten_thousand_ft": {
+    "criteria": {
+      "has_ten_thousand_ft": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/hundred_in_rupees_from_five_hundred_in_rupees": {
+    "criteria": {
+      "has_five_hundred_in_rupees": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei_from_cinci_sute_lei": {
+    "criteria": {
+      "has_cinci_sute_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/cinci_lei": {
+    "criteria": {
+      "has_un_leu": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/two_thousand_is_krone": {
+    "criteria": {
+      "has_thousand_is_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_no_krone_from_twenty_no_krone": {
+    "criteria": {
+      "has_twenty_no_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_cz_krone_from_twenty_cz_krone": {
+    "criteria": {
+      "has_twenty_cz_krone": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/one_ph_piso": {
+    "criteria": {
+      "has_twenty_five_ph_sentimo": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_pounds": {
+    "criteria": {
+      "has_five_pounds": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/suta_lei": {
+    "criteria": {
+      "has_cincizeci_lei": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/ten_groszy_from_fifty_groszy": {
+    "criteria": {
+      "has_fifty_groszy": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/doua_sute_lei_md": {
+    "criteria": {
+      "has_suta_lei_md": "2026-06-10 03:42:45 +0000"
+    },
+    "done": true
+  },
+  "bubusteinmoneymod:recipes/misc/fifty_dollars_from_hundred_dollars": {
+    "criteria": {
+      "has_hundred_dollars": "2026-06-10 03:53:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2026-06-10 03:56:30 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/light_blue_picture_frame": {
+    "criteria": {
+      "has_light_blue_picture_frame": "2026-06-10 03:53:12 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2026-06-10 03:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-10 03:57:49 +0000"
+    },
+    "done": true
+  },
+  "urban_decor:recipes/decorations/light_blue_picture_frame_from_base": {
+    "criteria": {
+      "has_light_blue_picture_frame": "2026-06-10 03:53:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

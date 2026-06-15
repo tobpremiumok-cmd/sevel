@@ -1,0 +1,7 @@
+["Starting Balance"]
+	#Set the default starting balance.
+	Balance = 0.0
+
+["Bank Name"]
+	#Set the name of the bank. Displayed on ATMs.
+	"Name of Bank" = "Minecraft Bank"

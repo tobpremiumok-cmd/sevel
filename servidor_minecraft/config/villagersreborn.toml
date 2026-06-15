@@ -1,0 +1,53 @@
+[appearance]
+	customVillagerSkins = true
+	customIllagerSkins = true
+	customWitchSkin = true
+	customPillagerModel = true
+	customVindicatorModel = true
+	customEvokerModel = true
+	customVillagerSounds = true
+	customIllagerSounds = true
+	villagerNameTag = true
+	pressRToTalkIndicator = true
+
+[gameplay]
+	# Default: 1.0
+	# Range: 0.5 ~ 1.5
+	dialogueCameraSensitivity = 1.0
+	invertDialogueCameraX = false
+	invertDialogueCameraY = false
+	dialogueScreenBlur = false
+	forceFirstPersonInDialogue = false
+	# Default: 2.0
+	# Range: 0.1 ~ 100.0
+	healthPerGoldenCarrot = 2.0
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	maxBonusHealth = 10.0
+
+[family]
+	genderedRelationshipLabels = true
+	allowMultiplePlayerSpouses = true
+	spouseCookingEnabled = true
+	# Default: 24000
+	# Range: 1200 ~ 240000
+	spouseCookingCooldownTicks = 24000
+	enableWeddingCutscene = true
+	enableFamilyCutscene = true
+	# Default: 24000
+	# Range: 20 ~ 24000000
+	pregnancyDurationTicks = 24000
+	enablePregnancyBelly = false
+	# Default: 3
+	# Range: 1 ~ 20
+	familyCharmMaxChildrenPerPair = 3
+	enableAging = true
+	# Default: 72000
+	# Range: 20 ~ 24000000
+	toddlerDurationTicks = 72000
+	# Default: 168000
+	# Range: 20 ~ 24000000
+	childDurationTicks = 168000
+	# Default: 168000
+	# Range: 20 ~ 24000000
+	teenDurationTicks = 168000
